@@ -14,12 +14,3 @@ Soy un apasionado por el desarrollo de software y la tecnología.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 </div>
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwingiraldonoh&show_icons=true&theme=radical" alt="Estadísticas de Edwin" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwingiraldonoh&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
