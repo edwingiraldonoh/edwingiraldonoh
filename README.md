@@ -2,17 +2,20 @@
 
 Soy un apasionado por el desarrollo de software y la tecnología.
 
-## 🛠️ Tecnologías y Herramientas
-<!-- Puedes borrar las que no uses -->
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 🛠️ Lenguajes y Tecnologías
 
-## 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edwingiraldonoh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwingiraldonoh&layout=compact&theme=tokyonight"/>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=edwingiraldonoh&show_icons=true&theme=radical" alt="Estadísticas de Edwin" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwingiraldonoh&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
